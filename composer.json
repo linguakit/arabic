@@ -1,0 +1,19 @@
+{
+    "name": "linguakit/arabic",
+    "type": "library",
+    "homepage": "https://github.com/linguakit/arabic",
+    "authors": [
+        {
+            "name": "linguakit",
+            "email": "linguakit@pm.me"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "linguakit\\":"src/"
+        }
+    }
+}
